@@ -1,0 +1,21 @@
+{
+  "name": "asfy",
+  "version": "1.0.0",
+  "main": "./lib/index",
+  "description": "Turn sync functions async",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eiriklv/asyncify.git"
+  },
+  "author": "Eirik Vullum <evullum@gmail.com> (http://www.evconsult.no/)",
+  "bugs": {
+    "url": "https://github.com/eiriklv/asyncify/issues"
+  },
+  "homepage": "https://github.com/eiriklv/asyncify",
+  "license": "MIT"
+}
