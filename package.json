@@ -1,9 +1,11 @@
 {
   "name": "asfy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/index",
   "description": "Turn sync functions async",
-  "dependencies": {},
+  "dependencies": {
+    "asap": "^2.0.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +19,10 @@
     "url": "https://github.com/eiriklv/asyncify/issues"
   },
   "homepage": "https://github.com/eiriklv/asyncify",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "asyncify",
+    "sync",
+    "async"
+  ]
 }
