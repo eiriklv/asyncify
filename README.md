@@ -1,6 +1,8 @@
 Asyncify (asfy)
 ===================
 
+[![Build Status](https://travis-ci.org/eiriklv/asyncify.svg?branch=master)](https://travis-ci.org/eiriklv/asyncify)
+
 ### Introduction:
 Turn a sync function async
 
