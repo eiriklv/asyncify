@@ -3,12 +3,10 @@
   "version": "1.0.1",
   "main": "./lib/index",
   "description": "Turn sync functions async",
-  "dependencies": {
-    "asap": "^2.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nodeunit test.js"
   },
   "repository": {
     "type": "git",
